@@ -1,6 +1,6 @@
-# Portifolio CSS + HTML
+# Portfolio CSS + HTML
 
-## Portifolio feito no Bootcamp TQI Full Staker Developer na Digital Innovation One
+## Portfolio feito no Bootcamp TQI Full Staker Developer na Digital Innovation One
 ### Ferramentas
 * CSS
 * HTML
